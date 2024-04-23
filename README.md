@@ -39,17 +39,16 @@
 ## About The Project
 ![a home journal screenshot](/quiz-llaqui.netlify.app_.png)
 
-This is an eCommerce template that can be adpated for almost any product or service. 
-
 The initial version of this project was created as part of a <a href="https://scrimba.com/" target="_blank" rel="noopener noreferrer"> Scrimba</a> tutorial. 
 
 Requirements:
 
-* Render the menu options using Javascript
-* Use reduce(), destructuring, for loops, map(), filter(), push()
-* Ability to add/remove items
-* HTML form
-* Payment modal with compulsory form inputs
+* Conditionally render two screens (start & quiz)
+* GET trivia questions from OTDB API using fetch() request
+* Calculate correct answers after "Check answers" is clicked
+* Show correct answers and chosen answers
+* useEffect, useState, props
+  
   
 [![React][React.js]][React-url]
 <br><br>
